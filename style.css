@@ -5,7 +5,7 @@ font-size: 20px;
 img{float:inline-end;
 border: solid;
 }
-.title{text-align:center;
+#title{text-align:center;
 font-size: 50px;
 }
 body{text-align:left;
