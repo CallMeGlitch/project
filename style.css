@@ -3,9 +3,11 @@ font-family: Georgia;
 font-size: 20px;
 }
 img{float:inline-end;
-    border: solid;
+border: solid;
 }
-.title{align-content: center;}
+.title{text-align:center;
+font-size: 50px;
+}
 body{text-align:left;
 margin-left: 1.5in;
 margin-right: 1.5in;
