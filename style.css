@@ -1,4 +1,4 @@
-p{color: #000; 
+body{color: #000; 
 font-family: Georgia;
 font-size: 20px;
 }
@@ -8,7 +8,7 @@ border: solid;
 .agreed{text-align:center;
 font-size: 50px;
 }
-body{text-align:center;
+p{text-align:center;
 margin-left: 1.5in;
 margin-right: 1.5in;
 margin-top: 1in;
