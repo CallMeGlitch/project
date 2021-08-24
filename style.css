@@ -6,4 +6,9 @@ img{float:inline-end;
     border: solid;
 }
 .title{align-content: center;}
-body{text-align:left;}
+body{text-align:left;
+margin-left: 1.5in;
+margin-right: 1.5in;
+margin-top: 1in;
+margin-bottom: 1in;
+}
