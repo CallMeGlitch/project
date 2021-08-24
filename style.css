@@ -6,7 +6,8 @@ img{
 border: solid;
 display: block;
 margin-left: auto;
-width:90%;
+margin-right: auto;
+height:200px;
 }
 .agreed{text-align:center;
 font-size: 50px;
