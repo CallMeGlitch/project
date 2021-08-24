@@ -2,7 +2,7 @@ p{color: #000;
 font-family: Georgia;
 font-size: 20px;
 }
-img{float:right;
+img{float:inline-end;
     border: solid;
 }
 .title{align-content: center;}
