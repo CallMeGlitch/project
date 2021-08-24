@@ -2,10 +2,11 @@ body{color: #000;
 font-family: Georgia;
 font-size: 20px;
 }
-img{align-content:center;
+img{
 border: solid;
 height: 200px;
-
+display: block;
+margin-left: auto;
 }
 .agreed{text-align:center;
 font-size: 50px;
